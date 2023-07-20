@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: #605f5f;
+}
+
+#inner {
+  margin-left: 12rem;
+  padding: 25px 3px;
+  width: 225px;
+  height: 50px;
+  background-color: #a8a6a6;
+  color: green;
+}
+#anc {
+  color: blue;
+  background-color: transparent;
+}
