@@ -1,7 +1,7 @@
 // XMHL request
-const requestUrl = "https://api.github.com/users/sourcebykhalid";
 const card = document.querySelector(".card");
 const anc = document.querySelector("#anc");
+const requestUrl = "https://api.github.com/users/sourcebykhalid";
 const xhr = new XMLHttpRequest();
 xhr.open("GET", requestUrl);
 xhr.onreadystatechange = function () {
